@@ -1,5 +1,5 @@
 {
-  "name": "integration-tests-jest",
+  "name": "api-reserva-testes",
   "version": "1.0.0",
   "description": "API testing with a simple integration between JestJS and PactumJS.",
   "main": "index.js",
@@ -35,12 +35,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ugioni/integration-tests-jest.git"
+    "url": "git+https://github.com/ugioni/api-reservas-testes.git"
   },
   "author": "leandro.ugioni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ugioni/integration-tests-jest/issues"
+    "url": "https://github.com/ugioni/api-reservas-testes/issues"
   },
-  "homepage": "https://github.com/ugioni/integration-tests-jest#readme"
+  "homepage": "https://github.com/ugioni/api-reservas-testes#readme"
 }

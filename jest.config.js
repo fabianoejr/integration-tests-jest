@@ -11,8 +11,8 @@ module.exports = {
       {
         publicPath: './output',
         filename: 'report.html',
-        pageTitle: 'JestJS + PactumJS',
-        logoImgPath: './assets/jest-logo.png',
+        pageTitle: 'API Reserva',
+        logoImgPath: './assets/calendar.png',
         expand: false,
         openReport: false
       }
